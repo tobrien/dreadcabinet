@@ -7,9 +7,9 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/utilarium/dreadcabinet.git"
+    "url": "git+https://github.com/tobrien/dreadcabinet.git"
   },
-  "homepage": "https://utilarium.github.io/dreadcabinet/",
+  "homepage": "https://tobrien.github.io/dreadcabinet/",
   "exports": {
     ".": {
       "types": "./dist/dreadcabinet.d.ts",

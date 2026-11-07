@@ -4,7 +4,7 @@
 
 ## Setup
 
-1.  **Clone Repository**: `git clone https://github.com/utilarium/dreadcabinet.git`
+1.  **Clone Repository**: `git clone https://github.com/tobrien/dreadcabinet.git`
 2.  **Install Dependencies**: `npm install`
 3.  **Build**: `npm run build`
 
