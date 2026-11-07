@@ -76,19 +76,19 @@ my-app \
 
 For complete documentation, including detailed configuration options, advanced usage examples, and integration guides, visit:
 
-**[📖 DreadCabinet Documentation](https://utilarium.github.io/dreadcabinet/)**
+**[📖 DreadCabinet Documentation](https://tobrien.github.io/dreadcabinet/)**
 
 ### Quick Links
 
-- [Getting Started Guide](https://utilarium.github.io/dreadcabinet/#getting-started)
-- [CLI Options Reference](https://utilarium.github.io/dreadcabinet/#cli-options)
-- [Configuration Files](https://utilarium.github.io/dreadcabinet/#configuration-files)
-- [Advanced Usage](https://utilarium.github.io/dreadcabinet/#advanced-usage)
-- [API Reference](https://utilarium.github.io/dreadcabinet/#api-reference)
+- [Getting Started Guide](https://tobrien.github.io/dreadcabinet/#getting-started)
+- [CLI Options Reference](https://tobrien.github.io/dreadcabinet/#cli-options)
+- [Configuration Files](https://tobrien.github.io/dreadcabinet/#configuration-files)
+- [Advanced Usage](https://tobrien.github.io/dreadcabinet/#advanced-usage)
+- [API Reference](https://tobrien.github.io/dreadcabinet/#api-reference)
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](https://utilarium.github.io/dreadcabinet/#contributing) for details.
+We welcome contributions! Please see our [Contributing Guide](https://tobrien.github.io/dreadcabinet/#contributing) for details.
 
 ## License
 
