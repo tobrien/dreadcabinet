@@ -12,13 +12,12 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content }) => {
         <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             components={{
-                code({ inline, className, children, ...props }) {
+                code({ className, children, ...props }) {
                     const match = /language-(\w+)/.exec(className || '');
-                    return !inline && match ? (
+                    return match ? (
                         <SyntaxHighlighter
                             language={match[1]}
                             PreTag="div"
-                            {...props}
                         >
                             {String(children).replace(/\n$/, '')}
                         </SyntaxHighlighter>

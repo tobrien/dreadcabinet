@@ -19,15 +19,6 @@
         "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
         "forceConsistentCasingInFileNames": true,
-        "baseUrl": ".",
-        "paths": {
-            "*": [
-                "node_modules/*"
-            ]
-        },
-        "typeRoots": [
-            "node_modules/@types"
-        ],
         /* Linting */
         "strict": true,
         "noUnusedLocals": true,

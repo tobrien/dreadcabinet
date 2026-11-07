@@ -61,7 +61,7 @@ describe('dates utility', () => {
         });
 
         it('throws error for invalid date', () => {
-            expect(() => dates.date('invalid-date')).toThrow('Invalid time value');
+            expect(() => dates.date('invalid-date')).toThrow('Invalid date: invalid-date');
         });
     });
 
@@ -82,7 +82,7 @@ describe('dates utility', () => {
         });
 
         it('throws error for invalid date format', () => {
-            expect(() => dates.parse('invalid', 'YYYY-MM-DD')).toThrow('Invalid time value');
+            expect(() => dates.parse('invalid', 'YYYY-MM-DD')).toThrow('Invalid date: invalid, expected format: YYYY-MM-DD');
         });
     });
 
